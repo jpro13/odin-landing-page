@@ -9,6 +9,7 @@ One aspect of this project I found somewhat challenging was the quote section. I
 I ended up setting a width property to both the quote text and author which solved this problem.
 
 Credits:
+
 Circular Building Levels photo by Leon Macapagal - https://www.pexels.com/@imagevain
 
 Dark Blue Sea Water photo by Ekrulila - https://www.pexels.com/@ekrulila
