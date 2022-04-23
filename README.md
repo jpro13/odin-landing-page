@@ -1,6 +1,5 @@
 # odin-landing-page
 
-<<<<<<< HEAD
 The main focus of this project was to practise using flexbox as well as reinforcing html and css techniques.
 
 More specifically, the aim was to use flexbox to arrange and align items in to the desired landing page layout.
@@ -13,8 +12,3 @@ Credits:
 Circular Building Levels photo by Leon Macapagal - https://www.pexels.com/@imagevain
 
 Dark Blue Sea Water photo by Ekrulila - https://www.pexels.com/@ekrulila
-=======
-The main focus of this project is to practise using flexbox as well as reinforcing html and css techniques.
-
-More specifically, I aim to use flexbox to arrange and align items in to the desired landing page layout.
->>>>>>> 7b03a8c34fac499f5b721545358472680c2c8c62
