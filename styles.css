@@ -32,7 +32,7 @@ a {
     display: flex;
     justify-content: center;
     align-items: center;
-    padding-bottom: 120px;
+    padding-bottom: 110px;
 }
 
 .intro {
@@ -100,4 +100,29 @@ button {
     width: 200px;
     border-radius: 8px;
     margin-bottom: 4px;
+}
+
+.quote {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 100px 150px;
+    background-color: #e5e7eb;
+}
+
+.quote-text {
+    font-size: 36px;
+    font-weight: 100;
+    font-style: italic;
+    color: #505050;
+    width: 700px;
+    margin-bottom: 14px;
+}
+
+.quote-author {
+    font-weight: bold;
+    color: #1F2937;
+    display: flex;
+    justify-content: flex-end;
+    width: 680px;
 }
